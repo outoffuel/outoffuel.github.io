@@ -15,3 +15,5 @@ M/BはmicroATXでも｢家におフルのPCがある、動けばおまけ感覚�
 Laptopを使ってた頃の名残&慣れでwindowsとManjaroをインストール、デフォルトをManjaroにDEはKDE Plasmaを使ってた、半年経ってpanelが固まって--replaceしても復帰できないから諦めて一時避難用のDEを探す、
 - 10102024<br>
 cosmicがPop!OSから出てきてpacmanでインストール出来るようになってたから入れてみた
+- 01252025<br>
+上記の不具合がグラボドライバの更新かなんかで動く様になっていた、ただmedia系のwidgetを使うとフリーズしがちなのはかわらず。
