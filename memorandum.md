@@ -21,3 +21,5 @@ cosmicがPop!OSから出てきてpacmanでインストール出来るように�
 ## ソフトウェア各種設定の話
   ### byobu
   邪道ではあるけどAlt-F12でマウスサポートをオンにして使うとドラッグ選択でClipboardに飛ばしてくれたりクリックでウィンドウ切り替えられたりで便利、ttyに入ったときマウスが使えなくて困るから多用せずに基本のkeybindを軸に使ったほうが良いけど。
+  ### hoarder
+  network fetch failedのメッセージが出て拡張機能、iosアプリから接続できなかったけど[この](https://github.com/hoarder-app/hoarder/issues/365#issuecomment-2394207708)comment通りにipの前にhttpを追加してあげたら難なく接続できた。
