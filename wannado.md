@@ -4,7 +4,7 @@
   - golang使いたいだけ
 - shellbox
 - konsoleのcolour theme設定していたら落としてきたcolour themeが遅れて適応されたのか後で遅れて思った通りになって気持ち悪いからメモを残しておく
-  ````
+  ```
   foreground: text
   background: background
   colour1: byobu background
