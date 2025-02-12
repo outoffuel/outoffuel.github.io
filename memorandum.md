@@ -23,3 +23,7 @@ cosmicがPop!OSから出てきてpacmanでインストール出来るように�
   邪道ではあるけどAlt-F12でマウスサポートをオンにして使うとドラッグ選択でClipboardに飛ばしてくれたりクリックでウィンドウ切り替えられたりで便利、ttyに入ったときマウスが使えなくて困るから多用せずに基本のkeybindを軸に使ったほうが良いけど。
   ### hoarder
   network fetch failedのメッセージが出て拡張機能、iosアプリから接続できなかったけど[この](https://github.com/hoarder-app/hoarder/issues/365#issuecomment-2394207708)comment通りにipの前にhttpを追加してあげたら難なく接続できた。
+## githubの話
+  ### tildeenhanced拡張
+  githubのページのソースコードをzipにして落とすやつだと2重構造になってそのまま審査に出すとmanifest.jsonが直接読みだせずにerrorがでる、今すぐできる対策は落としたzipを解凍してひとつ下のディレクトリにあるmanifest.json等をまとめて選択してzip
+  近いうちactionsでzipまでつくれるものか審査まで進めてくれるものを探す、今見つけてるものはパブリッシュ前提のものなのでforkして個人利用できるような審査だけ通すもの書く。
